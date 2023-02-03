@@ -1,0 +1,14 @@
+Variables: son elementos de este lenguaje de programacion que a lo largo de la escritura del codigo pueden tener diferentes
+valores que le podemos ir asignando. Estos elementos se utilizan para alojar algun valor que puede ser numero o texto, etc
+
+Strings: Es un tipo de variable en la cual se puede alojar valores tipo texto o mejor dicho cadena de caracteres
+
+Funciones (argumentos, return): son herramientas del lenguaje que se utilizan para crear un codigo aparte del codigo principal,
+el cual realice alguna tarea especifica que pueda mandar un valor al codigo principal. Para enviar dicho valor se necesita
+que se llame a esa funcion desde el codigo principal. Ademas esta herramienta puede tener argumentos lo cuales alojan valores 
+que son enviados desde el codigo principal desde el llamado de la funcion
+
+Declaraciones if: el if es una herramienta que tiene el lenguaje de programacion que funciona agregando una accion o algo que 
+quieras que haga el codigo pero cumpliendo 1 o mas condiciones
+
+Valores booleanos (true, false): son elementos que dicen al lenguaje de programacion que algo es falso o verdadero.

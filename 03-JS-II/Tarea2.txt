@@ -1,0 +1,11 @@
+For: Es una herramienta que se utiliza para hacer que en el codigo se repita una determinada cantidad de tiempo cierta instruccion
+
+&&: Es un elemento de union, cuando usas este simbolo entre dos condiciones, por ejemplo en la sentencia if,
+ ambas deben ser verdaderas para que la instruccion se ejecute 
+
+||: Es un elemento de union, cuando usas este simbolo entre dos condiciones, por ejemplo en la sentencia if, ambas deben ser falsas 
+para que la insctruccion NO se ejecute
+
+!: Es un elemento de negacion, cuando usas este simbolo anteponiendolo a una condicion estas cambiando su valor de verdad, 
+o sea que si una condicion determinada es verdadera si le anteponemos un simbolo de negacion esto va a hacer que esa condicion 
+ahora sea falsa
