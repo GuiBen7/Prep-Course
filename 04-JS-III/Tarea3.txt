@@ -1,0 +1,6 @@
+Un array es como un tren que necesita entrar a una ciudad (codigo), el tren tiene varios vagones, en cada uno puedes guardar 
+determinadas cosas, que en la programacion serian numeros, string, funciones, otros arrays, entre otras cosas. 
+Entonces podemos decir que el array es un conjunto de espacios en los cuales podemos alojar elementos. 
+Cada vagon del tren tiene una posicion, por tal motivo podemos decir que cada espacio de un array tiene una posicion
+por ejemplo si el tren tiene 4 vagones, el primer vagon esta en la posicion 0, el segundo vagon en la posicion 1 y asi sucesivamente. 
+Cabe destacar que en los array las posiciones siempre comienzan desde 0
