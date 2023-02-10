@@ -1,0 +1,16 @@
+Objetos: es un conjunto de instrucciones o caracteristicas, cada una de ellas lleva un nombre las cuales se definen como propiedades
+y cada propiedad tiene un valor o instruccion. para poder ejecutar algunas de estas instrucciones o retornar algun valor se necesita 
+llamar a ese objeto.
+
+Propiedades: son elementos que guardan cierto valor o instruccion. Estan en el contenido de un objeto.
+
+Metodos: son funciones contenidas dentro de una propiedad, el cual al ser llamado realiza cierta instruccion.
+
+Bucle for in: es un tipo de bucle en el cual no hay posiciones, solo hace que recorra todas las propiedades contenidas en el objeto.
+
+Notacion de puntos: Es un tipo de notacion en la cual para llamar un objeto se utiliza un punto al igual que se llama a un metodo, 
+se escribe el nombre del objeto seguido por un punto y luego se escribe la propiedad y se coloca parentesis. Tiene la ventaja de que 
+es mas facil y rapido de utilizar pero la desventaja que no trabaja con variables.
+
+Notacion de corchetes: Este tipo de notacion utiliza el llamado igual que cuando se llama una posicion de una funcion, se escribe
+primero el nombre del objeto seguido por los corchetes, y dentro de los corchetes va la propiedad que queremos llamar
